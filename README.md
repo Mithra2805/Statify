@@ -1,0 +1,1 @@
+**Statify** is a predictive system designed to assess the likelihood of loan approval based on an individual's financial profile. By analyzing key factors such as credit history, income, and debt levels, it provides an accurate prediction of loan status. The goal is to streamline the loan approval process and assist financial institutions in making informed decisions.
